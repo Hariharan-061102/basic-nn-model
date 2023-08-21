@@ -13,7 +13,7 @@ In this experiment we need to develop a Neural Network Regression Model so first
 Use df.head to get the first 5 values from the dataset or sheet.Then assign x and y values for input and coressponding outputs.Then split the dataset into testing and training,fit the training set and for the model use the "relu" activation function for the hidden layers of the neural network (here two hidden layers of 9 and 10 neurons are taken to process).To check the loss mean square error is uesd.Then the testing set is taken and fitted, at last the model is checked for accuracy via preiction.
 
 ## Neural Network Model
-![](NN.png)
+![](NN1.png)
 
 ## DESIGN STEPS
 
